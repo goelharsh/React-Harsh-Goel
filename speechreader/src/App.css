@@ -1,0 +1,19 @@
+.container{
+    box-sizing: border-box;
+    height: 100vh;
+}
+
+.reader-container{
+    display: flex;
+    flex-direction: column;
+    margin: 0px auto;
+    width: 20%;
+}
+
+.input-box{
+    margin-bottom: 20px;
+}
+
+button{
+    padding: 20px;
+}
